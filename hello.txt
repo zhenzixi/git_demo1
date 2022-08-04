@@ -1,7 +1,7 @@
 insert here something
 insert here something modified second
 insert here something hot-fix modified
-insert here something
+insert here something branch master
 insert here something
 insert here something
 insert here something
