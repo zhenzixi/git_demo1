@@ -11,11 +11,11 @@ insert here something
 insert here something
 insert here something
 insert here something
+insert here something hot-fix changed
 insert here something
 insert here something
 insert here something
-insert here something
-insert here something
-insert here something
+insert here something	
+insert here something 
 insert here something
 insert here something hot-fix test
